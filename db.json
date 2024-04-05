@@ -1,6 +1,12 @@
 {
   "students": [
     {
+      "id": "1",
+      "name": "Ja'farxon",
+      "group": "N45",
+      "sur": "Saidumarov"
+    },
+    {
       "id": "2",
       "name": "Akmal",
       "group": "N44",
@@ -32,6 +38,13 @@
     }
   ],
   "teachers": [
+    {
+      "id": "1",
+      "name": "Alisher",
+      "group": "N45",
+      "sur": "Bobomurodov",
+      "level": "middle"
+    },
     {
       "id": "2",
       "name": "Akmal",
